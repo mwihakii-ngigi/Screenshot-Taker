@@ -16,4 +16,3 @@ myButton = tk.Button(text="Take Screenshot", command=takeScreenshot, font=10)
 canvas1.create_window(150, 150, window=myButton)
 
 tk.mainloop()
-
